@@ -2,7 +2,7 @@ Hi!
 I'm Graison, and I am currently in Middle school.
 
 
-I am currently learning Puthon and also cybersecurity.
+I am currently learning Python and also cybersecurity.
 
 
 Find my stuff here!:
